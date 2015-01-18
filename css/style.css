@@ -378,7 +378,7 @@ a:focus{
 }
 
 .our-sponsors .sponsors .sponsor a {
-	background-color: #00a3e8;
+	background-color: white;
 	margin-bottom: 4px;
 	height: 236px;
 	display: block;
@@ -406,11 +406,13 @@ a:focus{
 .our-sponsors .sponsors .sponsor a img {
 	display: inline-block;
 	vertical-align: middle;
+	max-width:90%;
+	max-height:90%;
 }
 
 .our-sponsors .sponsors .become-sponsor a {
 	color: #fff;
-	font-size: 20px;
+	font-size: 100%;
 	font-weight: bold;
 	text-decoration: none;
 	background-color: transparent;
