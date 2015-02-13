@@ -114,6 +114,52 @@ a:focus{
 	text-align: center;
 }
 
+#header .navbar {
+	background: rgba(0, 173, 242, 0.68);
+}
+
+.navbar-nav>li>a {
+	line-height: 20px;
+	font-size: 19px;
+	font-weight: bold;
+	color: white;
+	-webkit-transition: 0.3s all ease-in-out;
+	-o-transition: 0.3s all ease-in-out;
+	transition: 0.3s all ease-in-out;
+	text-decoration: none;
+	
+}
+
+.navbar-nav>li>a:hover,
+.navbar-nav>li.active>a,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:active {
+	background: #009ddc;
+	border: none;
+	outline: none;
+}
+
+.navbar-nav>li>a.active {
+	background: #009ddc;
+}
+
+.navbar .navbar-toggle {
+	background-color: #fff;
+	background-color: rgba(255, 255, 255, 0.90);
+	border: none;
+	-webkit-border-radius: 0;
+	   -moz-border-radius: 0;
+	        border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	     box-shadow: none;
+}
+
+.navbar .navbar-toggle .icon-bar {
+    background: none repeat scroll 0 0 #009ddc;
+
+}
+
 #header h1 {
 	color: #ffffff;
 	font-weight: bold;
@@ -268,6 +314,39 @@ a:focus{
 	padding-left: 22px;
 	padding-bottom: 6px;
 }
+
+/*************************
+**** =faq
+*************************/
+
+.agenda {
+	background: #ACACAC;
+	color: #ffffff;
+	font-size: 16px;
+}
+
+.agenda h2 {
+	padding-top: 85px;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.agenda h3 {
+	color: #23a237;
+	font-size: 17px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.agenda table {
+	color: black;
+}
+
+.agenda .td-time {
+	font-weight: bold;
+}
+
 
 /*************************
 **** =tickets

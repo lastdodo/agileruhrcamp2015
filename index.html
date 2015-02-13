@@ -24,8 +24,30 @@
 <div id="container">	
 	<header id="header">
 		<div class="center">
-			<img src="images/flame_small.png" alt="barcamp flame logo">
-			<h1>AGILE RUHR<br><strong>CAMP</strong> <span>2015</span></h1>
+			<nav class="navbar navbar-fixed-top" role="navigation">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse center">
+			  	<ul class="nav navbar-nav">
+			  		<li><a href="#header">Home</a></li>
+			  		<li><a href="#signup">Tickets</a></li>
+			  		<li><a href="#mailing">Newsletter</a></li>
+			  		<li><a href="#categories">Was erwartet mich?</a></li>
+			  		<li><a href="#agenda">Agenda</a></li>
+			  		<li><a href="#sponsors">Sponsoren</a></li>
+			  		<li><a href="#faq">F.A.Q.</a></li>
+			  		<li><a href="#organizers">Organisatoren</a></li>
+			  	</ul>
+			  </div>
+			</nav> 		
+			<img src="images/flame_small_trans.png" alt="barcamp flame logo">
+			<h3/>
 			<h3><span>ARBEIT NEU DENKEN</span><br><span>UNPERFEKTHAUS ESSEN; 21./22. FEBRUAR 2015</span><br><span>#arc15</span></h3>
 			<a href="#signup" class="btn btn-primary btn-red btn-red-small">Jetzt anmelden</a>
 		</div>	
@@ -37,7 +59,7 @@
 				<h2>JETZT TICKET SICHERN</h2>
 				<div style="width:100%; text-align:left;" ><iframe  src="//www.eventbrite.com/tickets-external?eid=14934641916&ref=etckt" frameborder="0" height="368" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Online event registration</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.com/e/barcampruhr-8-tickets-14800626071?ref=etckt">barcamp.ruhr 8</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
 
-				<h2><img src="images/mailico.png" alt=""></h2>
+				<h2 id="mailing"><img src="images/mailico.png" alt=""></h2>
 				<h4>Wenn Ihr Euch in die Emailliste eintragt, informieren wir Euch regelmäßig über den Stand der Dinge!</h4>
 				
 				
@@ -67,7 +89,7 @@
 			</div>
 		</section>
 		
-		<section class="know-about-us">
+		<section class="know-about-us" id="categories">
 			<div class="center clearfix">
 				<img src="images/idea-thought.png" alt="">
 				<div class="text">
@@ -77,36 +99,66 @@
 					<p>Wir veranstalten dieses Barcamp, um Menschen von dieser Idee zu überzeugen. Dabei können Unternehmen sowohl von oben als auch von unten verändert werden. Im Vordergrund steht bei dem Barcamp immer die Idee der Augenhöhe. Durch den Austausch aus völlig unterschiedlichen Perspektiven möchten wir eine Veranstaltung schaffen, in der jeder Teilnehmer positive Impulse in sein Unternehmen mitnehmen kann und die die Idee der Agilität damit verbreitet.</p>
 				</div>
 			</div>
-		</section>		
-		<section class="our-sponsors">
+		</section>
+		<section class="agenda" id="agenda">
+			<div class="center clearfix">
+				<div class="text">
+					<h2>AGENDA</h2>
+					<h3>SAMSTAG, 21.2.2015</h3>
+					<table class="table table-striped">
+						<tbody>
+						<tr><td class="td-time">ab 9h </td><td>Ankunft, Frühstück & Registrierung</td></tr>
+						<tr><td class="td-time">10h - 11h</td><td>Vorstellungsrunde & Sessionplanung</td></tr>
+						<tr><td class="td-time">11h - 17h</td><td>Sessions</td></tr>
+						<tr><td class="td-time">11h - 13h</td><td><a href="https://www.xing.com/events/augenhohe-filmvorfuhrung-essen-1509121">Augenhöhe - Filmvorführung & Diskussion</a></td></tr>
+						<tr><td class="td-time">ab 17h</td><td>Party, Netzwerken & Bier</td></tr>
+						</tbody>
+					</table>
+					<h3>SONNTAG, 22.2.2015</h3>
+					<table class="table table-striped">
+						<tbody>
+						<tr><td class="td-time">ab 9h </td><td>Ankunft, Frühstück & Registrierung</td></tr>
+						<tr><td class="td-time">10h - 11h</td><td>Sessionplanung</td></tr>
+						<tr><td class="td-time">11h - 13h</td><td>Sessions</td></tr>
+						<tr><td class="td-time">14h - 15h</td><td>Mittagspause</td></tr>
+						<tr><td class="td-time">15h - 17h</td><td>Sessions</td></tr>
+						<tr><td class="td-time">17h - 18h</td><td>Gemeinsame Abschlußsession & Retrospektive</td></tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</section>
+		<section class="our-sponsors" id="sponsors">
 			<div class="center">
 				<h2>UNSERE SPONSOREN</h2>
 				<p>Ein großes "Dankeschön" an unsere großartigen Sponsoren!</p>
 				<div class="row sponsors">
-					<div class="col-sm-4 sponsor">
+					<div class="col-xs-6 sponsor">
 						<a href="http://www.if.de"><img src="images/sponsors/if.png" alt=""></a>
 					</div>
-					<div class="col-sm-4 sponsor">
+					<div class="col-xs-6 sponsor">
 						<a href="http://www.leandus.de"><img src="images/sponsors/leandus.png" alt=""></a>
 					</div>
-					<div class="col-sm-4 sponsor become-sponsor">
-						<a href="mailto:mail@agileruhrcamp.de?subject=Premium-Sponsoring"><span>WERDE PREMIUM-SPONSOR</span></a>
-					</div>
 					<div class="row sponsors">
-						<div class="col-md-2 col-md-offset-1 sponsor">
+						<div class="col-sm-4 sponsor">
 							<a href="http://www.communicode.de"><img src="images/sponsors/cc.jpeg" alt=""></a>
 						</div>
-						<div class="col-md-2 sponsor">
+						<div class="col-sm-4 sponsor">
 							<a href="http://www.controlexpert.com"><img src="images/sponsors/ce.jpg" alt=""></a>
 						</div>
-						<div class="col-md-2 sponsor">
+						<div class="col-sm-4 sponsor">
+							<a href="http://www.css.de"><img src="images/sponsors/css.png" alt=""></a>
+						</div>
+					</div>
+					<div class="row sponsors">
+						<div class="col-sm-4 sponsor">
 							<a href="http://www.dot.ruhr"><img src="images/sponsors/dotruhr.jpg" alt=""></a>
 						</div>
-						<div class="col-md-2 sponsor">
+						<div class="col-sm-4 sponsor">
 							<a href="http://www.gpm-ipma.de"><img src="images/sponsors/gpm.jpeg" alt=""></a>
 						</div>
-						<div class="col-md-2 sponsor become-sponsor">
-							<a href="mailto:mail@agileruhrcamp.de?subject=Basis-Sponsoring"><span>WERDE BASIS-SPONSOR</span></a>
+						<div class="col-sm-4 sponsor">
+							<a href="https://www.invision.de"><img src="images/sponsors/invision.png" alt=""></a>
 						</div>
 					</div>
 				</div>
@@ -129,7 +181,7 @@
 						</dd>
 						<dt><a data-toggle="collapse" data-parent="#faq" href="#f1">Was kostet die Teilnahme?</a></dt>
 						<dd id="f1" class="panel-collapse collapse">
-							Tickets kosten 58 Euro für beide Tage zusammen. Darin enthalten sind Räumlichkeiten, Essen & Trinken an beiden Tagen (ohne Abendveranstaltung). Menschen, die nicht in der Lage sind, diesen Betrag finanziell zu stemmen, melden sich bitte bei uns, wir finden eine Lösung!
+							Tickets kosten 59 Euro für beide Tage zusammen. Darin enthalten sind Räumlichkeiten, Essen & Trinken an beiden Tagen (ohne Abendveranstaltung). Menschen, die nicht in der Lage sind, diesen Betrag finanziell zu stemmen, melden sich bitte bei uns, wir finden eine Lösung!
 						</dd>	
 						<dt><a data-toggle="collapse" data-parent="#faq" href="#f2">Warum ist die Teilnahme so günstig, Konferenzen kosten über 1000 Euro?</a></dt>
 						<dd id="f2" class="panel-collapse collapse">
@@ -172,7 +224,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="organizers">
+		<section class="organizers" id="organizers">
 			<div class="center clearfix">
 				<div class="clearfix">
 					<div class="text">
@@ -208,11 +260,12 @@
 	<!-- /#main -->
 	<footer id="footer">
 		<div class="center">
-			<div class="top">
-				<h2><span>WIR FREUEN UNS AUF EUCH</span></h2>
-				
+			<div class="top"><br><br><br><br>
+				<a href="https://twitter.com/BarcampRuhr"><img src="images/icons/twitter.png" alt="">
+				<a href="https://www.facebook.com/events/783878438367551/"><img src="images/icons/facebook.png" alt="">
+				<a href="https://www.xing.com/events/barcamp-ruhr-8-1509541"><img src="images/icons/xing.png" alt="">
 			</div>
-			<div class="bottom">
+			<div class="text">
 				<p class="copyright">© Agile Ruhr camp 2015<br>Images CC menloinnovations.com</p>
 				<!-- SOCIAL ICONS -->
 
