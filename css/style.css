@@ -339,6 +339,10 @@ a:focus{
 	margin-bottom: 20px;
 }
 
+.agenda a:visited {
+	color: grey;
+}
+
 .agenda table {
 	color: black;
 }
