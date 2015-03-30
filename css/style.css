@@ -444,6 +444,11 @@ a:focus{
 	margin-bottom: 25px;
 }
 
+#footer h3 span {
+	background-color: #009ddc;
+	padding: 3px 10px 5px;
+	line-height: 38px;
+}
 
 
 /*************************
