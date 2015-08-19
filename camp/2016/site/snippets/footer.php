@@ -5,10 +5,10 @@
 			<h2><span>WIR FREUEN UNS AUF EUCH</span></h2>
 		</div>
 		<div class="bottom">
-			<p class="copyright">© BarCampRuhr 2016<br>Images CC Simon Bierwald</p>
+			<p class="copyright">© agile.ruhr Camp 2016<br>Images CC Simon Bierwald</p>
 			<!-- SOCIAL ICONS -->
 			<ul class="social-icons list-inline">
-				<li class="twitter"><a href="https://twitter.com/BarcampRuhr">
+				<li class="twitter"><a href="https://twitter.com/AgileRuhr">
 					<img src="<?php url('assets/images/icons/twitter.png')?>" alt=""></a>
 				</li>
 			</ul>
