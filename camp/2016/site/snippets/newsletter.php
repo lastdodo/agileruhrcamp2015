@@ -9,7 +9,7 @@
 				
 				<p><!-- Begin MailChimp Signup Form -->
 					<div id="mc_embed_signup">
-						<form action="//agileruhrcamp.us9.list-manage.com/subscribe/post?u=2d4471423d9d63e0ec75deedb&amp;id=a29e912984" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+						<form action="//agileruhrcamp.us9.list-manage.com/subscribe/post?u=2d4471423d9d63e0ec75deedb&amp;id=36dc7b2b45" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     						<div id="mc_embed_signup_scroll">
 								<div class="mc-field-group">
 									<p><label for="mce-EMAIL">Email-Addresse</label>
@@ -23,7 +23,8 @@
     								<div class="clear"><input type="submit" value="Eintragen" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     						</div>
 						</form>
-						<p>Zur Erfüllung dieses Verteilers verwenden wir Mailchimp, dessen Privacy Policy Ihr <a href="http://mailchimp.com/legal/privacy/">hier</a> einsehen könnt. Euer Emails werden von uns ausschliesslich zur Information um und über das barcamp.ruhr 9 genutzt und nicht an Dritte weitergegeben.</p>
+						<p>Zur Erfüllung dieses Verteilers verwenden wir Mailchimp, dessen Privacy Policy Ihr <a href="http://mailchimp.com/legal/privacy/">hier</a> einsehen könnt.
+ Eure Emails werden von uns ausschliesslich zur Information um und über das agile Ruhr Camp  genutzt und nicht an Dritte weitergegeben.</p>
 					</div>
 					<!--End mc_embed_signup-->
 				</p>

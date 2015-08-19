@@ -4,17 +4,15 @@ Title: Home
 
 Text: 
 
-##WAS ERWARTET MICH BEIM BARCAMP.RUHR 9?
-Euch erwartet ein zweitägiges offenes BarCamp aus dem Ruhrgebiet – für das Ruhrgebiet in einer spannenden Location, dem Unperfekthaus in Essen.
+##WAS ERWARTET MICH BEIM AGILE RUHR CAMP?
+Agilität steht nicht nur für den Einsatz von Methoden im Projektmanagement oder Softwareentwicklung. 
+Vielmehr bietet eine agile Grundhaltung Unternehmen eine einzigartige Möglichkeit. 
+Basierend auf Werten wie Transparenz, Mut, Respekt, Feedback und Einfachheit gestalten sie dabei eine Arbeitsumgebung, die engagierte Mitarbeiter langfristig an ihr Unternehmen bindet. Für die Mitarbeiter entsteht dabei eine Umgebung, in der sie sich angstfrei entwickeln können, für das Unternehmen entsteht ein langfristiger Wettbewerbsvorteil.   
 
- Dieses Jahr ist unser Thema XXX
-
-Diese und natürlich auch andere Fragen aus den Bereichen Internet, Social Media und Technik (und Stricken und Buffy) wollen wir gemeinsam ergründen.
-
-Nach einem erfolgreichen Start "unter neuer Leitung" möchten wir auch in diesem Jahr die Tradition des BarCamp Ruhr fortführen, weil wir überzeugt sind, dass das Ruhrgebiet ein BarCamp braucht - bis heute. Gutes bleibt, Neues wird besser. Bleibt neugierig und meldet Euch für auf unserem E-Mail-Verteiler an, wir werden Euch darüber stets auf dem Laufenden halten.
+Nach toller Resonanz 2015 veranstalten wir auch 2016 wieder das agile Ruhr Camp, um Menschen von dieser Idee zu überzeugen. Dabei können Unternehmen sowohl von oben als auch von unten verändert werden. Im Vordergrund steht bei dem Barcamp immer die Idee der Augenhöhe. Durch den Austausch aus völlig unterschiedlichen Perspektiven möchten wir eine Veranstaltung schaffen, in der jeder Teilnehmer positive Impulse in sein Unternehmen mitnehmen kann und die die Idee der Agilität damit verbreitet.
 
 Wir freuen uns auf Euch!
 
-Berthold ((twitter:@bertholdb)) und Maik ((twitter:@fernmuendlich))
+Berthold ((twitter:@bertholdb)) und Dominik ((twitter:@dominikrose))
 
-PS: Wir suchen natürlich auch dieses Jahr Sponsoren und Partner. Bei diesen und allen anderen Anliegen gerne eine Email an (email:mail@barcamp.ruhr).
+PS: Wir suchen natürlich auch dieses Jahr Sponsoren und Partner. Bei diesen und allen anderen Anliegen gerne eine Email an (email:mail@agileruhrcamp.de).
