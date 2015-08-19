@@ -25,8 +25,7 @@
 			<?php //snippet('menu') ?>            
 			<img src="<?php echo url('assets/images/flame_small2016.png');?>" alt="barcamp flame logo">
 			<h3><span>ARBEIT NEU DENKEN</span><br><span>UNPERFEKTHAUS ESSEN; 23./24. April 2016<br>&nbsp; #arc16 &nbsp;</span></h3>
-			<!--<a href="#signup" class="btn btn-primary btn-red btn-red-small">Für Newsletter anmelden</a>
--->		
+			<a href="#signup" class="btn btn-primary btn-red btn-red-small">Für Newsletter anmelden</a>
 </div>  
 	</header>
 	<main id="main" role="main">

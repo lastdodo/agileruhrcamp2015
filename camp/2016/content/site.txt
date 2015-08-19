@@ -1,12 +1,12 @@
-Title: barcamp.ruhr 9
+Title: agile.ruhr Camp 2016
 
 ----
 
-Author: Orga-Team barcamp.ruhr
+Author: Orga-Team agile.ruhr
 
 ----
 
-Description: Dies ist die offizielle Website des barcamp.ruhr
+Description: Dies ist die offizielle Website des agile.ruhr
 
 ----
 
